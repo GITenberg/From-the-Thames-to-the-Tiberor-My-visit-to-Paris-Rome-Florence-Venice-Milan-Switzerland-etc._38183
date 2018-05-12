@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9417'
     url: http://www.gutenberg.org/2009/agents/9417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38183#From-the-Thames-to-the-Tiberor-My-visit-to-Paris-Rome-Florence-Venice-Milan-Switzerland-etc.
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-01'
 gutenberg_type: Text
